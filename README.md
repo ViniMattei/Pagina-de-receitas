@@ -40,7 +40,7 @@ Pagina de receita é um agregador de receita para usar online
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através https://www.figma.com/design/lyflfb1Y612mLtIKq9VovM/P%C3%A1gina-de-receita-(Community)-(Copy)?node-id=3-376&t=qvljqcSHsVxHMExy-1. É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através (https://www.figma.com/design/7K0ndTZm5wofL6ImdX3JDm/Página-de-receita-(Community)?m=auto&is-community-duplicate=1&fuid=1330284797435416401.) É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
